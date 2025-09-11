@@ -600,7 +600,6 @@ def document_upload_view(request):
 
 hello=[1,2,3,4,5,6]
 
-
     # if request.method == "GET":
         
     #     empdata = Employee.objects.all()
